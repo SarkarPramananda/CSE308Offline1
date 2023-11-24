@@ -1,0 +1,8 @@
+Create Alice Student 1000
+
+create Mark Savings 30000
+
+Create Jasmine FixedDeposit 1200
+
+
+Exit
